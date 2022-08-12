@@ -22,6 +22,10 @@ export default {
             text: "《东宫变》前传之春华传",
             link: "《东宫变》前传之春华传/index.md",
           },
+          {
+            text: "kkndme",
+            link: "kkndme.md",
+          },
         ],
       },
     ],
