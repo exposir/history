@@ -14,10 +14,10 @@ export default {
     ],
     sidebar: [
       {
-        text: "Guide",
+        text: "",
         items: [
           { text: "内参治国的那些事", link: "/内参治国的那些事/index.md" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "周末快乐", link: "/周末快乐/index.md" },
         ],
       },
     ],
