@@ -18,11 +18,11 @@ export default {
         {
           text: "Guide",
           items: [
-            { text: "内参治国的那些事", link: "/内参治国的那些事/index.md" },
-            { text: "周末快乐", link: "/周末快乐/index.md" },
+            { text: "内参治国的那些事", link: "/内参治国的那些事/" },
+            { text: "周末快乐", link: "/周末快乐/" },
             {
               text: "《东宫变》前传之春华传",
-              link: "《东宫变》前传之春华传/index.md",
+              link: "《东宫变》前传之春华传/",
             },
             {
               text: "kkndme",
@@ -35,15 +35,19 @@ export default {
         {
           text: "Guide",
           items: [
-            { text: "内参治国的那些事", link: "/内参治国的那些事/index.md" },
-            { text: "周末快乐", link: "/周末快乐/index.md" },
+            { text: "内参治国的那些事", link: "/内参治国的那些事/" },
+            { text: "周末快乐", link: "/周末快乐/" },
             {
               text: "《东宫变》前传之春华传",
-              link: "《东宫变》前传之春华传/index.md",
+              link: "《东宫变》前传之春华传/",
             },
             {
               text: "kkndme",
               link: "kkndme.md",
+            },
+            {
+              text: "1946-05-15",
+              link: "rmrb/1946年05月/1946-05-15.md",
             },
           ],
         },
